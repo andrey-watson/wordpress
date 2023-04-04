@@ -190,7 +190,7 @@ actions:
       nodeGroup: cp
       skipEmail: true
       settings:
-        test: false
+        test: true
         fallbackToX1: true
         withExtIp: ${globals.isExtIP}
 
